@@ -43,12 +43,12 @@ Este projeto é uma aplicação fullstack que permite aos usuários:
 
 1. Clone os repositórios
 ```bash
-git clone https://DanielSantanaSilva/Calendario-API.git
+git clone https://github.com/DanielSantanaSilva/Calendario-de-Eventos.git
 cd Calendario-API
 ```
 
 ```bash
-git clone https://DanielSantanaSilva/Calendario-de-Eventos.git
+git clone https://github.com/DanielSantanaSilva/Calendario-API.git
 cd Calendario-de-Eventos
 ```
 
